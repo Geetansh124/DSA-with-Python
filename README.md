@@ -27,39 +27,39 @@ Welcome to the **Data Structures and Algorithms (DSA) in Python** repository! Th
 The repository is organized by topics, covering various data structures and algorithmic paradigms.
 
 ### 🧱 Basic Data Structures
-- [Array](./Array)
-- [Singly Linked List](./Singly%20Linked%20List)
-- [Doubly Linked List](./Doubly%20Linked%20List)
-- [Circular Linked List](./Circular%20Linked%20List)
-- [Stack](./Stack)
-- [Queue & Deque](./Queue%20&%20Deque)
-- [Circular Queue](./Crcular%20Queue)
+- [Array](./DSA%20with%20Python/Array)
+- [Singly Linked List](./DSA%20with%20Python/Singly%20Linked%20List)
+- [Doubly Linked List](./DSA%20with%20Python/Doubly%20Linked%20List)
+- [Circular Linked List](./DSA%20with%20Python/Circular%20Linked%20List)
+- [Stack](./DSA%20with%20Python/Stack)
+- [Queue & Deque](./DSA%20with%20Python/Queue%20&%20Deque)
+- [Circular Queue](./DSA%20with%20Python/Crcular%20Queue)
 
 ### 🌲 Trees
-- [Trees](./Trees)
-- [Binary Search Tree](./Binary%20Search%20Tree)
-- [Deletion in Binary Search Tree](./Deletion%20in%20Binary%20Search%20Tree)
-- [Tree Traversal](./Tree%20Traversal)
+- [Trees](./DSA%20with%20Python/Trees)
+- [Binary Search Tree](./DSA%20with%20Python/Binary%20Search%20Tree)
+- [Deletion in Binary Search Tree](./DSA%20with%20Python/Deletion%20in%20Binary%20Search%20Tree)
+- [Tree Traversal](./DSA%20with%20Python/Tree%20Traversal)
 
 ### 🕸️ Graphs
-- [Graphs and Matrix](./Graphs%20and%20Matrix)
-- [Graph List Representation](./Graph%20List%20Representation)
-- [Graph Transversal](./Graph%20Transversal)
-- [BFS Graph Traversal](./BFS%20Graph%20Traversal)
+- [Graphs and Matrix](./DSA%20with%20Python/Graphs%20and%20Matrix)
+- [Graph List Representation](./DSA%20with%20Python/Graph%20List%20Representation)
+- [Graph Transversal](./DSA%20with%20Python/Graph%20Transversal)
+- [BFS Graph Traversal](./DSA%20with%20Python/BFS%20Graph%20Traversal)
 
 ### 🔄 Sorting Algorithms
-- [Bubble Sort](./Bubble%20Sort)
-- [Selection Sort](./Selection%20Sort)
-- [Insertion Sort](./Insertion%20Sort)
-- [Merge Sort](./Merge%20Sort)
-- [Quick Sort](./Quick%20Sort)
+- [Bubble Sort](./DSA%20with%20Python/Bubble%20Sort)
+- [Selection Sort](./DSA%20with%20Python/Selection%20Sort)
+- [Insertion Sort](./DSA%20with%20Python/Insertion%20Sort)
+- [Merge Sort](./DSA%20with%20Python/Merge%20Sort)
+- [Quick Sort](./DSA%20with%20Python/Quick%20Sort)
 
 ### 🧠 Algorithmic Paradigms
-- [Recursion](./Recursion)
-- [Divide And Conquer](./Divide%20And%20Conquer)
-- [Greedy Algorithm](./Greedy%20Algorithm)
-- [Fractional Knapsack - Greedy Algorithm](./Fractional%20Knapsack%20_%20Greedy%20Algorithm)
-- [Dynamic Programming](./Dynamic%20Programming)
+- [Recursion](./DSA%20with%20Python/Recursion)
+- [Divide And Conquer](./DSA%20with%20Python/Divide%20And%20Conquer)
+- [Greedy Algorithm](./DSA%20with%20Python/Greedy%20Algorithm)
+- [Fractional Knapsack - Greedy Algorithm](./DSA%20with%20Python/Fractional%20Knapsack%20_%20Greedy%20Algorithm)
+- [Dynamic Programming](./DSA%20with%20Python/Dynamic%20Programming)
 
 ---
 
@@ -86,11 +86,11 @@ pip install notebook
    ```
 2. Navigate to the project directory
    ```bash
-   cd "DSA-with-Python/DSA with Python"
+   cd DSA-with-Python
    ```
 3. Explore the directories and run the Python scripts!
    ```bash
-   python Array/Array.py
+   python "DSA with Python/Array/Array.py"
    ```
    *Or launch Jupyter to view the notebooks:*
    ```bash
