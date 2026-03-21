@@ -82,7 +82,7 @@ pip install notebook
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your_username/DSA-with-Python.git
+   git clone https://github.com/Geetansh124/DSA-with-Python.git
    ```
 2. Navigate to the project directory
    ```bash
@@ -114,7 +114,7 @@ If you have a suggestion that would make this better or want to add a new algori
 
 ## 📫 Contact
 
-Project Link: [https://github.com/your_username/DSA-with-Python](https://github.com/your_username/DSA-with-Python)
+Project Link: [https://github.com/Geetansh124/DSA-with-Python](https://github.com/Geetansh124/DSA-with-Python)
 
 ---
 
